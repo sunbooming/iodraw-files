@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-24" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;Blood Flow&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
-          <mxGeometry x="630" y="195" width="115" height="30" as="geometry" />
+          <mxGeometry x="600" y="205" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
