@@ -180,7 +180,7 @@
     <mxGraphModel dx="2927" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" style="" parent="0" />
+        <mxCell id="1" style="locked=1;" parent="0" visible="0" />
         <mxCell id="lopryY7XOlCYG_4Zbgsz-6" value="mmWave Radar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="130" height="30" as="geometry" />
         </mxCell>
@@ -259,7 +259,7 @@
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-13" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/Vk3kvyC3/pulse-wave-with-second-derivative.png;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-1">
           <mxGeometry x="250" y="470" width="230" height="143.75" as="geometry" />
         </mxCell>
-        <mxCell id="tptI7bY6vcEC1J6r8qTf-17" value="4" parent="0" />
+        <mxCell id="tptI7bY6vcEC1J6r8qTf-17" value="4" parent="0" visible="0" />
         <mxCell id="ju9uLr5hxkVislq4zGpL-20" value="" style="group" vertex="1" connectable="0" parent="tptI7bY6vcEC1J6r8qTf-17">
           <mxGeometry x="680" y="30" width="260" height="511" as="geometry" />
         </mxCell>
