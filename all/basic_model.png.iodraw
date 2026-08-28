@@ -39,8 +39,8 @@
             <mxPoint x="825" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OH2YLCzKb8JwHk-UW9I9-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
-          <mxGeometry x="555" y="315" width="60" height="30" as="geometry" />
+        <mxCell id="OH2YLCzKb8JwHk-UW9I9-22" value="Reflection Point" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
+          <mxGeometry x="780" y="185" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
