@@ -324,7 +324,7 @@
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-45" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Fine-tuning&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;strokeColor=#858585;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-40">
           <mxGeometry x="628.25" y="186" width="217.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IkWVJwgw6dPIM5j9zcjV-46" value="&lt;font color=&quot;#97d077&quot; style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Transfer Learning&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-40">
+        <mxCell id="IkWVJwgw6dPIM5j9zcjV-46" value="&lt;font color=&quot;#00d015&quot; style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Transfer Learning&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-40">
           <mxGeometry x="663.25" y="44" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-47" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;SBP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;container=0;strokeColor=#858585;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-40">
