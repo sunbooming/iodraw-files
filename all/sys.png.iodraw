@@ -177,7 +177,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fkv5aQ_VmbbAVJ4MhKCp" name="第 2 页">
-    <mxGraphModel dx="732" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="878" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,6 +216,9 @@
             <mxPoint x="268" y="223.12" as="sourcePoint" />
             <mxPoint x="309" y="223.12" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lopryY7XOlCYG_4Zbgsz-53" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/XvtRb3tt/RX0-Bin1-Clean-Waveform.png;" vertex="1" parent="1">
+          <mxGeometry x="330" y="240" width="520" height="208" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
