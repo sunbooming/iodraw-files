@@ -177,7 +177,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fkv5aQ_VmbbAVJ4MhKCp" name="第 2 页">
-    <mxGraphModel dx="1254" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="732" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,6 +236,11 @@
         </mxCell>
         <mxCell id="lopryY7XOlCYG_4Zbgsz-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lopryY7XOlCYG_4Zbgsz-11" source="lopryY7XOlCYG_4Zbgsz-16" target="lopryY7XOlCYG_4Zbgsz-22">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lopryY7XOlCYG_4Zbgsz-51" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lopryY7XOlCYG_4Zbgsz-49">
+          <mxGeometry x="0.498" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lopryY7XOlCYG_4Zbgsz-16" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Wavelet Transform &amp;amp; Onset CV&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;strokeColor=#858585;" vertex="1" parent="lopryY7XOlCYG_4Zbgsz-11">
           <mxGeometry x="21.25" y="90" width="217.5" height="40" as="geometry" />
@@ -337,6 +342,9 @@
             <mxPoint x="268" y="223.12" as="sourcePoint" />
             <mxPoint x="309" y="223.12" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lopryY7XOlCYG_4Zbgsz-50" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Second Derivative&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;container=0;strokeColor=#858585;" vertex="1" parent="1">
+          <mxGeometry x="415.25" y="552" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
