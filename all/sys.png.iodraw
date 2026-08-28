@@ -268,7 +268,7 @@
         <mxCell id="ju9uLr5hxkVislq4zGpL-28" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/yxr1c2kr/pulse-wave-with-second-derivative.png;rotation=-90;container=0;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-6">
           <mxGeometry x="348.88" y="174" width="80.94" height="50.6" as="geometry" />
         </mxCell>
-        <mxCell id="tptI7bY6vcEC1J6r8qTf-15" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;BP Singal Extraction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;container=0;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-6">
+        <mxCell id="tptI7bY6vcEC1J6r8qTf-15" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;BP Singal Extraction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;container=0;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-6">
           <mxGeometry x="-67" y="110" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-17" value="4" parent="0" />
