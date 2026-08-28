@@ -208,7 +208,7 @@
             <mxPoint x="273" y="247" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tptI7bY6vcEC1J6r8qTf-1" value="3" parent="0" />
+        <mxCell id="tptI7bY6vcEC1J6r8qTf-1" value="3" parent="0" visible="0" />
         <mxCell id="tptI7bY6vcEC1J6r8qTf-2" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="tptI7bY6vcEC1J6r8qTf-1">
           <mxGeometry x="230" y="340" width="390" height="360" as="geometry" />
         </mxCell>
