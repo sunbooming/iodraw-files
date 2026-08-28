@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4JLv9RiwYBJoHWMP3Jur-4" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;Measurement&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;Site&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
-          <mxGeometry x="340" y="205" width="60" height="30" as="geometry" />
+          <mxGeometry x="402.5" y="215" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
