@@ -33,7 +33,7 @@
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.58;dx=21.5;notch=8.77;feather=0.4;rotation=352;fillColor=#f7a892;strokeColor=none;gradientColor=#ff5147;gradientDirection=radial;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
           <mxGeometry x="640" y="277" width="64.74" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="OH2YLCzKb8JwHk-UW9I9-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=73.5;rotation=-172;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
+        <mxCell id="OH2YLCzKb8JwHk-UW9I9-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=40;dx2=29.73;rotation=-172;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
           <mxGeometry x="750.09" y="52.83" width="95" height="80" as="geometry" />
         </mxCell>
       </root>
