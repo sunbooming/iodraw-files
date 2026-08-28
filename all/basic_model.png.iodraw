@@ -48,7 +48,7 @@
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-24" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;Blood Flow&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
           <mxGeometry x="613" y="212" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OH2YLCzKb8JwHk-UW9I9-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.58;dx=21.5;notch=8.77;feather=0.4;rotation=352;fillColor=#f7a892;strokeColor=none;gradientColor=#ff5147;gradientDirection=radial;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
+        <mxCell id="OH2YLCzKb8JwHk-UW9I9-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.58;dx=21.5;notch=8.77;feather=0.4;rotation=352;fillColor=#f7a892;strokeColor=none;gradientColor=#ff5147;gradientDirection=east;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
           <mxGeometry x="640" y="277" width="64.74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-26" value="pulse" parent="0" />
@@ -79,7 +79,7 @@
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-33" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;STA&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
           <mxGeometry x="433" y="380" width="45" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OH2YLCzKb8JwHk-UW9I9-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=3.07;arrowHead=12.5;dx2=14.01;rotation=-180;gradientColor=#FF5147;gradientDirection=east;strokeColor=none;fillColor=#F7A892;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
+        <mxCell id="OH2YLCzKb8JwHk-UW9I9-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=3.07;arrowHead=12.5;dx2=14.01;rotation=-180;gradientColor=#FF5147;gradientDirection=north;strokeColor=none;fillColor=#F7A892;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
           <mxGeometry x="825" y="268" width="25" height="25" as="geometry" />
         </mxCell>
       </root>
