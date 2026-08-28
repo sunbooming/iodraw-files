@@ -110,7 +110,7 @@
         <mxCell id="_q8FXHE4rUHhjhfUZyTw-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d43732;strokeColor=none;" vertex="1" parent="_q8FXHE4rUHhjhfUZyTw-4">
           <mxGeometry x="131" y="362" width="182" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="_q8FXHE4rUHhjhfUZyTw-6" value="3" style="" parent="0" />
+        <mxCell id="_q8FXHE4rUHhjhfUZyTw-6" value="3" style="" parent="0" visible="0" />
         <mxCell id="_q8FXHE4rUHhjhfUZyTw-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="_q8FXHE4rUHhjhfUZyTw-6">
           <mxGeometry x="166" y="396" width="112" height="112" as="geometry" />
         </mxCell>
