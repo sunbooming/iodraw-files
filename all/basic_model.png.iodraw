@@ -79,7 +79,7 @@
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-33" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;STA&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
           <mxGeometry x="433" y="380" width="45" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OH2YLCzKb8JwHk-UW9I9-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=3.68;arrowHead=11.5;dx2=16.3;rotation=-180;gradientColor=#FF5147;gradientDirection=north;strokeColor=none;fillColor=#F7A892;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
+        <mxCell id="OH2YLCzKb8JwHk-UW9I9-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=3.58;arrowHead=11.5;dx2=16.3;rotation=-180;gradientColor=#FF5147;gradientDirection=north;strokeColor=none;fillColor=#F7A892;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
           <mxGeometry x="820.12" y="269" width="25.88" height="23" as="geometry" />
         </mxCell>
       </root>
