@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-28" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;Forward Pulse Wave&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="OH2YLCzKb8JwHk-UW9I9-26" vertex="1">
-          <mxGeometry x="490" y="200" width="115" height="30" as="geometry" />
+          <mxGeometry x="490" y="198" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#B20000;fillColor=#e51400;" parent="OH2YLCzKb8JwHk-UW9I9-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
