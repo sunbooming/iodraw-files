@@ -225,7 +225,7 @@
           <mxGeometry x="220" y="730" width="750" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ju9uLr5hxkVislq4zGpL-28" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/yxr1c2kr/pulse-wave-with-second-derivative.png;rotation=-180;container=0;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-1">
-          <mxGeometry x="146" y="376.1" width="99.18" height="62" as="geometry" />
+          <mxGeometry x="146" y="360" width="99.18" height="62" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#deeaf6;strokeWidth=2;strokeColor=#7c7c7d;fontColor=#333333;container=0;rotation=0;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-1">
           <mxGeometry x="480" y="10" width="260" height="430" as="geometry" />
