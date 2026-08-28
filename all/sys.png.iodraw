@@ -219,7 +219,7 @@
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-1" value="3" parent="0" />
         <mxCell id="tptI7bY6vcEC1J6r8qTf-16" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="tptI7bY6vcEC1J6r8qTf-1">
-          <mxGeometry x="217" y="300" width="400" height="391" as="geometry" />
+          <mxGeometry x="180" y="330" width="400" height="391" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-2" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="tptI7bY6vcEC1J6r8qTf-16">
           <mxGeometry x="10" y="16" width="390" height="360" as="geometry" />
@@ -268,7 +268,7 @@
           <mxGeometry x="211" y="176" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ju9uLr5hxkVislq4zGpL-28" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/yxr1c2kr/pulse-wave-with-second-derivative.png;rotation=-90;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-16">
-          <mxGeometry x="250.56" y="240" width="75" height="46.88" as="geometry" />
+          <mxGeometry x="240" y="230" width="75" height="46.88" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-17" value="4" parent="0" />
         <mxCell id="ju9uLr5hxkVislq4zGpL-20" value="" style="group" vertex="1" connectable="0" parent="tptI7bY6vcEC1J6r8qTf-17">
