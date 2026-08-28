@@ -311,7 +311,13 @@
           <mxGeometry x="600" y="44" width="260" height="225" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.148;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="IkWVJwgw6dPIM5j9zcjV-40" source="IkWVJwgw6dPIM5j9zcjV-44" target="IkWVJwgw6dPIM5j9zcjV-45">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="573" y="237" />
+              <mxPoint x="620" y="237" />
+              <mxPoint x="620" y="216" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.589;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="IkWVJwgw6dPIM5j9zcjV-40" source="IkWVJwgw6dPIM5j9zcjV-44" target="IkWVJwgw6dPIM5j9zcjV-13">
           <mxGeometry relative="1" as="geometry">
