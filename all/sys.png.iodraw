@@ -266,7 +266,7 @@
         <mxCell id="ju9uLr5hxkVislq4zGpL-28" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/yxr1c2kr/pulse-wave-with-second-derivative.png;rotation=-270;container=0;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-34">
           <mxGeometry x="235" y="227" width="99.18" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="IkWVJwgw6dPIM5j9zcjV-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#ffffff;gradientColor=#b3b3b3;gradientDirection=east;width=20;endSize=8.282352941176471;" edge="1" parent="tptI7bY6vcEC1J6r8qTf-1">
+        <mxCell id="IkWVJwgw6dPIM5j9zcjV-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#ffffff;gradientColor=#b3b3b3;gradientDirection=east;width=20;endSize=12.658823529411764;endWidth=24.705882352941178;" edge="1" parent="tptI7bY6vcEC1J6r8qTf-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="527" y="470" as="sourcePoint" />
             <mxPoint x="600" y="470" as="targetPoint" />
