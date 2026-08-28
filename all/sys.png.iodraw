@@ -229,17 +229,21 @@
         <mxCell id="lopryY7XOlCYG_4Zbgsz-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;Phase &amp;amp; ROI Processing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;container=0;strokeColor=#858585;" vertex="1" parent="lopryY7XOlCYG_4Zbgsz-11">
           <mxGeometry x="20.25" y="20" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lopryY7XOlCYG_4Zbgsz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lopryY7XOlCYG_4Zbgsz-11" source="lopryY7XOlCYG_4Zbgsz-16" target="lopryY7XOlCYG_4Zbgsz-18">
+        <mxCell id="lopryY7XOlCYG_4Zbgsz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lopryY7XOlCYG_4Zbgsz-11" source="lopryY7XOlCYG_4Zbgsz-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lopryY7XOlCYG_4Zbgsz-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lopryY7XOlCYG_4Zbgsz-11" source="lopryY7XOlCYG_4Zbgsz-16" target="lopryY7XOlCYG_4Zbgsz-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lopryY7XOlCYG_4Zbgsz-16" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Wavelet Transform &amp;amp; Onset CV&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;strokeColor=#858585;" vertex="1" parent="lopryY7XOlCYG_4Zbgsz-11">
           <mxGeometry x="21.25" y="90" width="217.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lopryY7XOlCYG_4Zbgsz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lopryY7XOlCYG_4Zbgsz-11" source="lopryY7XOlCYG_4Zbgsz-18" target="lopryY7XOlCYG_4Zbgsz-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lopryY7XOlCYG_4Zbgsz-18" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;Valid Event ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;container=0;strokeColor=#858585;" vertex="1" parent="lopryY7XOlCYG_4Zbgsz-11">
-          <mxGeometry x="33.75" y="160" width="192.5" height="40" as="geometry" />
+        <mxCell id="lopryY7XOlCYG_4Zbgsz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lopryY7XOlCYG_4Zbgsz-11" target="lopryY7XOlCYG_4Zbgsz-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="200" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lopryY7XOlCYG_4Zbgsz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lopryY7XOlCYG_4Zbgsz-11" source="lopryY7XOlCYG_4Zbgsz-20">
           <mxGeometry relative="1" as="geometry">
