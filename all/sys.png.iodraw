@@ -177,7 +177,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fkv5aQ_VmbbAVJ4MhKCp" name="第 2 页">
-    <mxGraphModel dx="702" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="338" dy="213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,11 +244,6 @@
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-9" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;Valid Event ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;container=0;strokeColor=#858585;rotation=-90;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-2">
           <mxGeometry x="34" y="160" width="192.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tptI7bY6vcEC1J6r8qTf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tptI7bY6vcEC1J6r8qTf-2" source="tptI7bY6vcEC1J6r8qTf-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="180" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Second Derivative&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;container=0;strokeColor=#858585;rotation=-90;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-2">
           <mxGeometry x="90" y="160" width="220" height="40" as="geometry" />
