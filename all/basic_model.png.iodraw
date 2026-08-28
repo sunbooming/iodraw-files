@@ -52,7 +52,7 @@
           <mxGeometry x="640" y="277" width="64.74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-26" value="pulse" parent="0" />
-        <mxCell id="OH2YLCzKb8JwHk-UW9I9-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
+        <mxCell id="OH2YLCzKb8JwHk-UW9I9-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#d33f38;" edge="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="495" y="245" as="sourcePoint" />
             <mxPoint x="550" y="245" as="targetPoint" />
