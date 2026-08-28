@@ -80,7 +80,7 @@
           <mxGeometry x="433" y="380" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=3.07;arrowHead=12.5;dx2=16.3;rotation=-180;gradientColor=#FF5147;gradientDirection=north;strokeColor=none;fillColor=#F7A892;aspect=fixed;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
-          <mxGeometry x="819" y="267.92" width="25" height="23.08" as="geometry" />
+          <mxGeometry x="819" y="267" width="26" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
