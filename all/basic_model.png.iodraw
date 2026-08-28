@@ -3,7 +3,7 @@
     <mxGraphModel dx="606" dy="383" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" style="" parent="0" />
+        <mxCell id="1" style="" parent="0" visible="0" />
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/C58JM5x3/basic-model-1.png;" parent="1" vertex="1">
           <mxGeometry x="400" y="160" width="580.47" height="240" as="geometry" />
         </mxCell>
@@ -85,7 +85,7 @@
         <mxCell id="4JLv9RiwYBJoHWMP3Jur-2" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" edge="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="493" y="260" as="sourcePoint" />
-            <mxPoint x="471" y="230" as="targetPoint" />
+            <mxPoint x="470" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4JLv9RiwYBJoHWMP3Jur-4" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;Measurement&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;Site&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
