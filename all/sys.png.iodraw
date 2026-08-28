@@ -337,11 +337,6 @@
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-45" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;Fine-tuning&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;strokeColor=#858585;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-40">
           <mxGeometry x="620.25" y="203" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IkWVJwgw6dPIM5j9zcjV-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=26.67;exitDy=46;exitPerimeter=0;" edge="1" parent="IkWVJwgw6dPIM5j9zcjV-40" source="IkWVJwgw6dPIM5j9zcjV-61">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-61" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;direction=north;aspect=fixed;fillColor=default;strokeColor=none;gradientColor=#F19C99;gradientDirection=east;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-40">
           <mxGeometry x="707.25" y="500" width="46" height="76.67" as="geometry" />
         </mxCell>
@@ -349,7 +344,7 @@
           <mxGeometry x="320" y="500" width="46" height="76.67" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-63" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;direction=north;aspect=fixed;fillColor=default;strokeColor=none;gradientColor=#F19C99;gradientDirection=east;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-40">
-          <mxGeometry x="727.25" y="520" width="46" height="76.67" as="geometry" />
+          <mxGeometry x="780" y="248" width="46" height="76.67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
