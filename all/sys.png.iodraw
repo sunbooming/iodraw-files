@@ -200,7 +200,7 @@
           <mxGeometry x="316" y="123.8" width="146" height="58.4" as="geometry" />
         </mxCell>
         <mxCell id="lopryY7XOlCYG_4Zbgsz-53" value="Target" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/XvtRb3tt/RX0-Bin1-Clean-Waveform.png;rotation=-90;fontSize=18;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="480" y="126" width="150" height="60" as="geometry" />
+          <mxGeometry x="477.2" y="124.8" width="146" height="58.4" as="geometry" />
         </mxCell>
         <mxCell id="lopryY7XOlCYG_4Zbgsz-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#ffffff;gradientColor=#b3b3b3;gradientDirection=east;width=20;endSize=8.282352941176471;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
