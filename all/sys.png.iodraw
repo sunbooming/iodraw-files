@@ -241,6 +241,9 @@
         <mxCell id="tptI7bY6vcEC1J6r8qTf-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Region Of interest&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;strokeColor=#858585;rotation=0;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-1">
           <mxGeometry x="146" y="158" width="217.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="IkWVJwgw6dPIM5j9zcjV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="tptI7bY6vcEC1J6r8qTf-1" source="tptI7bY6vcEC1J6r8qTf-11" target="ju9uLr5hxkVislq4zGpL-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Second Derivative C&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;alculation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;container=0;strokeColor=#858585;rotation=0;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-1">
           <mxGeometry x="145" y="295" width="220" height="40" as="geometry" />
         </mxCell>
@@ -254,10 +257,10 @@
           <mxGeometry x="145" y="226" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-13" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/Vk3kvyC3/pulse-wave-with-second-derivative.png;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-1">
-          <mxGeometry x="263.5" y="360" width="100" height="62.5" as="geometry" />
+          <mxGeometry x="263.5" y="370" width="100" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="ju9uLr5hxkVislq4zGpL-28" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/yxr1c2kr/pulse-wave-with-second-derivative.png;rotation=-180;container=0;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-1">
-          <mxGeometry x="146" y="360" width="99.18" height="62" as="geometry" />
+          <mxGeometry x="146" y="370" width="99.18" height="62" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-17" value="4" parent="0" visible="0" />
         <mxCell id="ju9uLr5hxkVislq4zGpL-20" value="" style="group" vertex="1" connectable="0" parent="tptI7bY6vcEC1J6r8qTf-17">
