@@ -222,7 +222,7 @@
           <mxGeometry x="220" y="330" width="367.55" height="391" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-2" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="tptI7bY6vcEC1J6r8qTf-16">
-          <mxGeometry x="-15" y="16" width="382.55" height="360" as="geometry" />
+          <mxGeometry x="10" y="16" width="382.55" height="360" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#deeaf6;strokeWidth=2;strokeColor=#7c7c7d;fontColor=#333333;container=0;rotation=-90;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-2">
           <mxGeometry width="260" height="360" as="geometry" />
@@ -329,6 +329,9 @@
         </mxCell>
         <mxCell id="ju9uLr5hxkVislq4zGpL-19" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;DBP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;container=0;strokeColor=#858585;" vertex="1" parent="ju9uLr5hxkVislq4zGpL-20">
           <mxGeometry x="164.25" y="59.99999999999994" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ju9uLr5hxkVislq4zGpL-26" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/RhJQzxx9/pulse-wave-with-second-derivative.png;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-17">
+          <mxGeometry x="300" y="350" width="520" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
