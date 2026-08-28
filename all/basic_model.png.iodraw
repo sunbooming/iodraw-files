@@ -91,7 +91,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lKYvzqypPjsXDlMIVq3H-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/CLctvv20/basic-model-2.png;" vertex="1" parent="1">
-          <mxGeometry x="190" y="30" width="520" height="512" as="geometry" />
+          <mxGeometry x="330" y="90" width="240" height="236.31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
