@@ -30,9 +30,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-5" value="blood flow" style="" parent="0" />
-        <mxCell id="OH2YLCzKb8JwHk-UW9I9-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OH2YLCzKb8JwHk-UW9I9-5" source="OH2YLCzKb8JwHk-UW9I9-15" target="OH2YLCzKb8JwHk-UW9I9-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.58;dx=21.5;notch=8.77;feather=0.4;rotation=352;fillColor=#f7a892;strokeColor=none;gradientColor=#ff5147;gradientDirection=radial;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
           <mxGeometry x="640" y="277" width="64.74" height="22" as="geometry" />
         </mxCell>
@@ -45,9 +42,9 @@
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-22" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;Reflection Point&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
           <mxGeometry x="800" y="185" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OH2YLCzKb8JwHk-UW9I9-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=21.619999999999997;exitDy=5.390000000000001;exitPerimeter=0;strokeWidth=2;" edge="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
+        <mxCell id="OH2YLCzKb8JwHk-UW9I9-23" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="675.9438571646422" y="283.9407069696806" as="sourcePoint" />
+            <mxPoint x="676" y="270" as="sourcePoint" />
             <mxPoint x="676" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
