@@ -247,7 +247,7 @@
             <mxPoint x="215" y="102" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tptI7bY6vcEC1J6r8qTf-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Wavelet Transform &amp;amp; Onset CV&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;strokeColor=#858585;rotation=0;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-9">
+        <mxCell id="tptI7bY6vcEC1J6r8qTf-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Event Dection&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;strokeColor=#858585;rotation=0;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-9">
           <mxGeometry x="106" y="38" width="217.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IkWVJwgw6dPIM5j9zcjV-9" target="tptI7bY6vcEC1J6r8qTf-11">
