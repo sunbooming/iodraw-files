@@ -20,16 +20,10 @@
             <mxPoint x="840" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OH2YLCzKb8JwHk-UW9I9-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.142;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3PKFy5F9XoANvnaqfbks-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="479.99674000000005" y="390" as="sourcePoint" />
-            <mxPoint x="840" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="3PKFy5F9XoANvnaqfbks-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="425" as="sourcePoint" />
-            <mxPoint x="660" y="425" as="targetPoint" />
+            <mxPoint x="840" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-12" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-11">
