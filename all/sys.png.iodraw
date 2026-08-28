@@ -187,7 +187,7 @@
             <mxPoint x="61" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lopryY7XOlCYG_4Zbgsz-53" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/XvtRb3tt/RX0-Bin1-Clean-Waveform.png;" vertex="1" parent="1">
+        <mxCell id="lopryY7XOlCYG_4Zbgsz-53" value="Target" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/XvtRb3tt/RX0-Bin1-Clean-Waveform.png;" vertex="1" parent="1">
           <mxGeometry x="390" y="210" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lopryY7XOlCYG_4Zbgsz-6" value="mmWave Radar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
