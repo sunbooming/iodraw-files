@@ -30,7 +30,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-5" value="blood flow" style="" parent="0" />
-        <mxCell id="OH2YLCzKb8JwHk-UW9I9-21" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
+        <mxCell id="OH2YLCzKb8JwHk-UW9I9-21" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" edge="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="855" y="275" as="sourcePoint" />
             <mxPoint x="830" y="225" as="targetPoint" />
@@ -39,7 +39,7 @@
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-22" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;Reflection Point&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
           <mxGeometry x="800" y="185" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OH2YLCzKb8JwHk-UW9I9-23" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.548;exitY=0.294;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="OH2YLCzKb8JwHk-UW9I9-5" source="OH2YLCzKb8JwHk-UW9I9-15">
+        <mxCell id="OH2YLCzKb8JwHk-UW9I9-23" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;exitX=0.548;exitY=0.294;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="OH2YLCzKb8JwHk-UW9I9-5" source="OH2YLCzKb8JwHk-UW9I9-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="676" y="270" as="sourcePoint" />
             <mxPoint x="675" y="240" as="targetPoint" />
