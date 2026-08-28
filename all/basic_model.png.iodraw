@@ -85,11 +85,11 @@
         <mxCell id="4JLv9RiwYBJoHWMP3Jur-2" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" edge="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="493" y="260" as="sourcePoint" />
-            <mxPoint x="470" y="230" as="targetPoint" />
+            <mxPoint x="465" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4JLv9RiwYBJoHWMP3Jur-4" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;Measurement&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;Site&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
-          <mxGeometry x="390" y="205" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="205" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
