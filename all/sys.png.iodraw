@@ -297,7 +297,7 @@
           <mxGeometry x="24.75" y="150.91999999999996" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ju9uLr5hxkVislq4zGpL-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;rotation=-90;" vertex="1" parent="ju9uLr5hxkVislq4zGpL-3">
-          <mxGeometry x="86.38999999999999" y="67.92000000000002" width="45.22" height="116" as="geometry" />
+          <mxGeometry x="86.38999999999999" y="67.92000000000002" width="49" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ju9uLr5hxkVislq4zGpL-8" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;CNN-BLSTM-Attention Model&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=3.715850830078125;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="ju9uLr5hxkVislq4zGpL-3">
           <mxGeometry width="220" height="39.71" as="geometry" />
