@@ -121,7 +121,7 @@
             <mxPoint x="270" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hQ0gCTXjh3bixr14ed4U-3" value="&lt;font style=&quot;font-size: 31px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;r&lt;/span&gt;&lt;font style=&quot;font-size: 31px;&quot;&gt;&lt;sub&gt;0&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="hQ0gCTXjh3bixr14ed4U-1">
+        <mxCell id="hQ0gCTXjh3bixr14ed4U-3" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 31px;&quot;&gt;r&lt;/span&gt;&lt;sub style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;0&lt;/font&gt;&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="hQ0gCTXjh3bixr14ed4U-1">
           <mxGeometry x="440" y="500" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
