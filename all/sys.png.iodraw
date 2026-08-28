@@ -283,7 +283,7 @@
           <mxGeometry x="600" y="300" width="260" height="245" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-39" value="&lt;font color=&quot;#594a00&quot; style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;BP Estimation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;container=0;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-17">
-          <mxGeometry x="662" y="304" width="130" height="40" as="geometry" />
+          <mxGeometry x="662" y="303" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-51" value="" style="group" vertex="1" connectable="0" parent="tptI7bY6vcEC1J6r8qTf-17">
           <mxGeometry x="620" y="345" width="220" height="184.99999999999994" as="geometry" />
@@ -303,7 +303,7 @@
         <mxCell id="ju9uLr5hxkVislq4zGpL-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;SBP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;container=0;strokeColor=#858585;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-51">
           <mxGeometry x="24.75" y="140" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ju9uLr5hxkVislq4zGpL-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;FC Regression&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;strokeColor=#858585;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-51">
+        <mxCell id="ju9uLr5hxkVislq4zGpL-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Blood pressure prediction&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;strokeColor=#858585;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-51">
           <mxGeometry y="70" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-40" value="5" parent="0" />
@@ -333,7 +333,7 @@
           <mxGeometry x="703.39" y="128.0000000000001" width="45.22" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-46" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#00610a&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Eliminating The Influence&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#00610a&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Of Individuals&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-40">
-          <mxGeometry x="620" y="70" width="220" height="60" as="geometry" />
+          <mxGeometry x="620" y="67" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-49" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;DBP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;container=0;strokeColor=#858585;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-40">
           <mxGeometry x="764" y="133.49999999999994" width="50" height="40" as="geometry" />
