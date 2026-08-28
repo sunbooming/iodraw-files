@@ -234,13 +234,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Phase &amp;amp; ROI Processing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;container=0;strokeColor=#858585;rotation=-90;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-1">
-          <mxGeometry x="99" y="400" width="220" height="40" as="geometry" />
+          <mxGeometry x="97" y="400" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tptI7bY6vcEC1J6r8qTf-1" source="tptI7bY6vcEC1J6r8qTf-7" target="tptI7bY6vcEC1J6r8qTf-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Wavelet Transform &amp;amp; Onset CV&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;strokeColor=#858585;rotation=-90;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-1">
-          <mxGeometry x="201" y="400" width="217.5" height="40" as="geometry" />
+          <mxGeometry x="200" y="400" width="217.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tptI7bY6vcEC1J6r8qTf-1" source="tptI7bY6vcEC1J6r8qTf-9" target="tptI7bY6vcEC1J6r8qTf-11">
           <mxGeometry relative="1" as="geometry" />
