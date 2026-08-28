@@ -250,11 +250,6 @@
         <mxCell id="tptI7bY6vcEC1J6r8qTf-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Region of interest&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;strokeColor=#858585;rotation=0;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-9">
           <mxGeometry x="106" y="38" width="217.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tptI7bY6vcEC1J6r8qTf-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IkWVJwgw6dPIM5j9zcjV-9" target="tptI7bY6vcEC1J6r8qTf-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="215" y="142" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Second Derivative C&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;alculation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;container=0;strokeColor=#858585;rotation=0;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-9">
           <mxGeometry x="-70" y="220" width="220" height="40" as="geometry" />
         </mxCell>
@@ -262,7 +257,7 @@
           <mxGeometry x="130" y="-78" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Second Derivative C&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;alculation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;container=0;strokeColor=#858585;rotation=0;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-9">
-          <mxGeometry x="110" y="110" width="220" height="40" as="geometry" />
+          <mxGeometry x="110" y="160" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-17" value="4" parent="0" visible="0" />
         <mxCell id="ju9uLr5hxkVislq4zGpL-20" value="" style="group" vertex="1" connectable="0" parent="tptI7bY6vcEC1J6r8qTf-17">
