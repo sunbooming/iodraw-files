@@ -218,8 +218,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-1" value="3" parent="0" />
-        <mxCell id="tptI7bY6vcEC1J6r8qTf-16" value="" style="group;direction=south;" vertex="1" connectable="0" parent="tptI7bY6vcEC1J6r8qTf-1">
-          <mxGeometry x="284.5" y="535.5" width="391" height="260" as="geometry" />
+        <mxCell id="tptI7bY6vcEC1J6r8qTf-16" value="" style="group" vertex="1" connectable="0" parent="tptI7bY6vcEC1J6r8qTf-1">
+          <mxGeometry x="350" y="470" width="260" height="391" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-2" value="" style="group" vertex="1" connectable="0" parent="tptI7bY6vcEC1J6r8qTf-16">
           <mxGeometry width="260" height="360" as="geometry" />
