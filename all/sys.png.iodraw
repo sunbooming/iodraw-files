@@ -196,7 +196,7 @@
             <mxPoint x="540" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lopryY7XOlCYG_4Zbgsz-4" value="Source" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/zv14sYd5/RX0-Bin1-Clean-Waveform.png;rotation=-90;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="lopryY7XOlCYG_4Zbgsz-4" value="Source" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/zv14sYd5/RX0-Bin1-Clean-Waveform.png;rotation=-90;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="306" y="122" width="140" height="56" as="geometry" />
         </mxCell>
         <mxCell id="lopryY7XOlCYG_4Zbgsz-53" value="Target" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/XvtRb3tt/RX0-Bin1-Clean-Waveform.png;rotation=-90;" vertex="1" parent="1">
