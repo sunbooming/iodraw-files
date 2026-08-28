@@ -280,7 +280,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ju9uLr5hxkVislq4zGpL-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff2cc;strokeWidth=2;strokeColor=#7c7c7d;container=0;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-17">
-          <mxGeometry x="600" y="280" width="260" height="265" as="geometry" />
+          <mxGeometry x="600" y="290" width="260" height="255" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-39" value="&lt;font color=&quot;#cc5800&quot; style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;BP Estimation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;container=0;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-17">
           <mxGeometry x="680" y="306" width="130" height="40" as="geometry" />
