@@ -191,7 +191,7 @@
           <mxGeometry x="390" y="210" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lopryY7XOlCYG_4Zbgsz-6" value="mmWave Radar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="181" y="83" width="130" height="30" as="geometry" />
+          <mxGeometry x="190" y="80" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lopryY7XOlCYG_4Zbgsz-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/zv14sYd5/RX0-Bin1-Clean-Waveform.png;" vertex="1" parent="1">
           <mxGeometry x="390" y="130" width="150" height="60" as="geometry" />
@@ -216,7 +216,7 @@
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-1" value="3" parent="0" />
         <mxCell id="tptI7bY6vcEC1J6r8qTf-2" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="tptI7bY6vcEC1J6r8qTf-1">
-          <mxGeometry x="190" y="346" width="390" height="360" as="geometry" />
+          <mxGeometry x="230" y="340" width="390" height="360" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#deeaf6;strokeWidth=2;strokeColor=#7c7c7d;fontColor=#333333;container=0;rotation=-90;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-2">
           <mxGeometry width="260" height="360" as="geometry" />
