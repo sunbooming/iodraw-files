@@ -110,8 +110,8 @@
         <mxCell id="_q8FXHE4rUHhjhfUZyTw-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d43732;strokeColor=none;" vertex="1" parent="_q8FXHE4rUHhjhfUZyTw-4">
           <mxGeometry x="131" y="362" width="182" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="_q8FXHE4rUHhjhfUZyTw-6" value="未命名图层" style="locked=1;" parent="0" />
-        <mxCell id="_q8FXHE4rUHhjhfUZyTw-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;" vertex="1" parent="_q8FXHE4rUHhjhfUZyTw-6">
+        <mxCell id="_q8FXHE4rUHhjhfUZyTw-6" value="未命名图层" style="" parent="0" />
+        <mxCell id="_q8FXHE4rUHhjhfUZyTw-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;shadow=1;" vertex="1" parent="_q8FXHE4rUHhjhfUZyTw-6">
           <mxGeometry x="166" y="396" width="112" height="112" as="geometry" />
         </mxCell>
       </root>
