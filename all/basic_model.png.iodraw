@@ -61,6 +61,12 @@
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-28" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;Forward Pulse Flow&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
           <mxGeometry x="425" y="195" width="115" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OH2YLCzKb8JwHk-UW9I9-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#B20000;fillColor=#e51400;" edge="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="250" as="sourcePoint" />
+            <mxPoint x="555" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
