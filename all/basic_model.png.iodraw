@@ -58,7 +58,7 @@
             <mxPoint x="550" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OH2YLCzKb8JwHk-UW9I9-28" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;Forward Pulse Flow&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
+        <mxCell id="OH2YLCzKb8JwHk-UW9I9-28" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;Forward Pulse Wave&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
           <mxGeometry x="425" y="195" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#B20000;fillColor=#e51400;" edge="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-30" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;Backward Pulse Flow&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-26">
-          <mxGeometry x="630" y="345" width="115" height="30" as="geometry" />
+          <mxGeometry x="620" y="340" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
