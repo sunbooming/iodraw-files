@@ -265,11 +265,6 @@
             <mxPoint x="370.20669999999996" y="195.2155899999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ju9uLr5hxkVislq4zGpL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.734;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IkWVJwgw6dPIM5j9zcjV-6" source="tptI7bY6vcEC1J6r8qTf-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="364.61210000000005" y="88.38333999999986" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ju9uLr5hxkVislq4zGpL-28" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/yxr1c2kr/pulse-wave-with-second-derivative.png;rotation=-90;container=0;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-6">
           <mxGeometry x="348.88" y="174" width="80.94" height="50.6" as="geometry" />
         </mxCell>
