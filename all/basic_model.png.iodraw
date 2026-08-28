@@ -7,11 +7,11 @@
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/C58JM5x3/basic-model-1.png;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="580.47" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="3PKFy5F9XoANvnaqfbks-1" value="未命名图层" parent="0" />
+        <mxCell id="3PKFy5F9XoANvnaqfbks-1" value="L" parent="0" />
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="3PKFy5F9XoANvnaqfbks-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="340" as="sourcePoint" />
-            <mxPoint x="540" y="410" as="targetPoint" />
+            <mxPoint x="490" y="270" as="sourcePoint" />
+            <mxPoint x="490" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
