@@ -197,7 +197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lopryY7XOlCYG_4Zbgsz-4" value="Source" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/zv14sYd5/RX0-Bin1-Clean-Waveform.png;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="318" y="120" width="140" height="56" as="geometry" />
+          <mxGeometry x="310" y="122" width="140" height="56" as="geometry" />
         </mxCell>
         <mxCell id="lopryY7XOlCYG_4Zbgsz-53" value="Target" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/XvtRb3tt/RX0-Bin1-Clean-Waveform.png;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="460" y="110" width="150" height="60" as="geometry" />
