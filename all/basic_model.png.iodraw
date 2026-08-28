@@ -30,8 +30,8 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OH2YLCzKb8JwHk-UW9I9-5" value="blood flow" parent="0" />
-        <mxCell id="OH2YLCzKb8JwHk-UW9I9-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rotation=-15;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
-          <mxGeometry x="605" y="265" width="95" height="50" as="geometry" />
+        <mxCell id="OH2YLCzKb8JwHk-UW9I9-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rotation=0;" vertex="1" parent="OH2YLCzKb8JwHk-UW9I9-5">
+          <mxGeometry x="620" y="275" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
