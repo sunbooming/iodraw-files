@@ -227,12 +227,6 @@
         <mxCell id="tptI7bY6vcEC1J6r8qTf-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#deeaf6;strokeWidth=2;strokeColor=#7c7c7d;fontColor=#333333;container=0;rotation=0;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-1">
           <mxGeometry x="790" y="20" width="260" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="IkWVJwgw6dPIM5j9zcjV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tptI7bY6vcEC1J6r8qTf-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="252.4999999999999" y="122" as="sourcePoint" />
-            <mxPoint x="253.7499999999999" y="158" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Phase Extraction&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;container=0;strokeColor=#858585;rotation=0;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-1">
           <mxGeometry x="146" y="70" width="220" height="40" as="geometry" />
         </mxCell>
@@ -251,7 +245,7 @@
           <mxGeometry x="145" y="295" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-15" value="&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;BP Singal Extraction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;container=0;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-1">
-          <mxGeometry x="168.5" y="30" width="170" height="40" as="geometry" />
+          <mxGeometry x="171" y="20" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tptI7bY6vcEC1J6r8qTf-1" source="IkWVJwgw6dPIM5j9zcjV-10" target="tptI7bY6vcEC1J6r8qTf-11">
           <mxGeometry relative="1" as="geometry" />
