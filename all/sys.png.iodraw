@@ -220,7 +220,7 @@
             <mxPoint x="388.70000000000005" y="274.87999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tptI7bY6vcEC1J6r8qTf-1" value="3" style="locked=1;" parent="0" />
+        <mxCell id="tptI7bY6vcEC1J6r8qTf-1" value="3" style="" parent="0" />
         <mxCell id="lopryY7XOlCYG_4Zbgsz-1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Physics-Informed Blood Pressure Modeling&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#7c7c7d;dashed=1;dashPattern=8 8;fillColor=#fad9d5;rotation=0;" vertex="1" parent="tptI7bY6vcEC1J6r8qTf-1">
           <mxGeometry x="160" y="590" width="750" height="40" as="geometry" />
         </mxCell>
@@ -318,7 +318,7 @@
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.148;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IkWVJwgw6dPIM5j9zcjV-40" source="IkWVJwgw6dPIM5j9zcjV-44" target="IkWVJwgw6dPIM5j9zcjV-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IkWVJwgw6dPIM5j9zcjV-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="IkWVJwgw6dPIM5j9zcjV-40" source="IkWVJwgw6dPIM5j9zcjV-44">
+        <mxCell id="IkWVJwgw6dPIM5j9zcjV-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.589;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IkWVJwgw6dPIM5j9zcjV-40" source="IkWVJwgw6dPIM5j9zcjV-44" target="IkWVJwgw6dPIM5j9zcjV-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="400" as="targetPoint" />
           </mxGeometry>
