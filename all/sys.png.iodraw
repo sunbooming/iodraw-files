@@ -219,7 +219,7 @@
           <mxGeometry x="130" y="574" width="790" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-34" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="tptI7bY6vcEC1J6r8qTf-1">
-          <mxGeometry x="211" y="204" width="330.3" height="407" as="geometry" />
+          <mxGeometry x="211" y="204" width="331.37" height="407" as="geometry" />
         </mxCell>
         <mxCell id="tptI7bY6vcEC1J6r8qTf-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#deeaf6;strokeWidth=2;strokeColor=#7c7c7d;fontColor=#333333;container=0;rotation=-90;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-34">
           <mxGeometry width="260" height="407" as="geometry" />
@@ -249,10 +249,10 @@
           <mxGeometry x="29" y="184" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-13" value="Target" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/Vk3kvyC3/pulse-wave-with-second-derivative.png;rotation=-90;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-34">
-          <mxGeometry x="239.9" y="125.9" width="78.4" height="49" as="geometry" />
+          <mxGeometry x="239.9" y="115.9" width="78.4" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ju9uLr5hxkVislq4zGpL-28" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/yxr1c2kr/pulse-wave-with-second-derivative.png;rotation=-270;container=0;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-34">
-          <mxGeometry x="235" y="227" width="99.18" height="62" as="geometry" />
+          <mxGeometry x="229" y="210" width="84.18" height="52.62" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#ffffff;gradientColor=#b3b3b3;gradientDirection=east;width=20;endSize=8.282352941176471;" edge="1" parent="tptI7bY6vcEC1J6r8qTf-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
