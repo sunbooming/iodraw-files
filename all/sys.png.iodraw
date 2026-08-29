@@ -249,7 +249,7 @@
           <mxGeometry x="29" y="184" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IkWVJwgw6dPIM5j9zcjV-13" value="Target" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/Vk3kvyC3/pulse-wave-with-second-derivative.png;rotation=-90;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-34">
-          <mxGeometry x="251.9" y="133.9" width="78.4" height="49" as="geometry" />
+          <mxGeometry x="239.9" y="125.9" width="78.4" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ju9uLr5hxkVislq4zGpL-28" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/yxr1c2kr/pulse-wave-with-second-derivative.png;rotation=-270;container=0;" vertex="1" parent="IkWVJwgw6dPIM5j9zcjV-34">
           <mxGeometry x="235" y="227" width="99.18" height="62" as="geometry" />
