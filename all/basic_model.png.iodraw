@@ -154,7 +154,7 @@
           <mxGeometry x="166" y="396" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="ACjrsz-RpTucExfKQWJu-11" value="jiantou" parent="0" />
-        <mxCell id="ACjrsz-RpTucExfKQWJu-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ACjrsz-RpTucExfKQWJu-11" target="ACjrsz-RpTucExfKQWJu-3">
+        <mxCell id="ACjrsz-RpTucExfKQWJu-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ACjrsz-RpTucExfKQWJu-11" source="ACjrsz-RpTucExfKQWJu-3" target="ACjrsz-RpTucExfKQWJu-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="490" as="sourcePoint" />
             <mxPoint x="240" y="440" as="targetPoint" />
