@@ -203,8 +203,8 @@
             <mxPoint x="184" y="414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ylPaqe-MwY7BDdZKczfx-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ylPaqe-MwY7BDdZKczfx-9">
-          <mxGeometry x="206" y="437" width="29" height="29" as="geometry" />
+        <mxCell id="ylPaqe-MwY7BDdZKczfx-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="ylPaqe-MwY7BDdZKczfx-9">
+          <mxGeometry x="207" y="437" width="29" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
