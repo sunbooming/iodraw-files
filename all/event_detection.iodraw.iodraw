@@ -20,9 +20,9 @@
         <mxCell id="CZjhr46BZ2I6k_fWr2-s-6" value="&lt;font color=&quot;#008000&quot; style=&quot;font-size: 13px;&quot;&gt;Tail Onset&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="CZjhr46BZ2I6k_fWr2-s-3">
           <mxGeometry x="388" y="260" width="79" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="CZjhr46BZ2I6k_fWr2-s-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="CZjhr46BZ2I6k_fWr2-s-3">
+        <mxCell id="CZjhr46BZ2I6k_fWr2-s-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CZjhr46BZ2I6k_fWr2-s-3" target="CZjhr46BZ2I6k_fWr2-s-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="428" y="262" as="sourcePoint" />
+            <mxPoint x="488" y="234" as="sourcePoint" />
             <mxPoint x="478" y="212" as="targetPoint" />
           </mxGeometry>
         </mxCell>
