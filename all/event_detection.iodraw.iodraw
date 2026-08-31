@@ -3,7 +3,7 @@
     <mxGraphModel dx="754" dy="489" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="CZjhr46BZ2I6k_fWr2-s-15" value="未命名图层" parent="0" />
+        <mxCell id="CZjhr46BZ2I6k_fWr2-s-15" value="未命名图层" style="locked=1;" parent="0" />
         <mxCell id="CZjhr46BZ2I6k_fWr2-s-16" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/Kvk8jfCt/group-15-invalid.png;" parent="CZjhr46BZ2I6k_fWr2-s-15" vertex="1">
           <mxGeometry x="90" y="140" width="520" height="190" as="geometry" />
         </mxCell>
