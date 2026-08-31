@@ -39,10 +39,7 @@
             <mxPoint x="443" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r84KkMrRDszAoyK9fIWq-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="r84KkMrRDszAoyK9fIWq-9" source="r84KkMrRDszAoyK9fIWq-18" target="r84KkMrRDszAoyK9fIWq-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="r84KkMrRDszAoyK9fIWq-18" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="r84KkMrRDszAoyK9fIWq-9">
+        <mxCell id="r84KkMrRDszAoyK9fIWq-18" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Helvetica&quot; style=&quot;font-size: 22px;&quot;&gt;2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="r84KkMrRDszAoyK9fIWq-9">
           <mxGeometry x="240" y="258" width="29" height="18" as="geometry" />
         </mxCell>
         <mxCell id="r84KkMrRDszAoyK9fIWq-19" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="r84KkMrRDszAoyK9fIWq-9">
@@ -50,9 +47,6 @@
         </mxCell>
         <mxCell id="r84KkMrRDszAoyK9fIWq-20" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="r84KkMrRDszAoyK9fIWq-9">
           <mxGeometry x="240" y="218" width="29" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="r84KkMrRDszAoyK9fIWq-21" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="r84KkMrRDszAoyK9fIWq-9">
-          <mxGeometry x="240" y="356" width="29" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
