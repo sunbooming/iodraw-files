@@ -63,10 +63,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="woZwy3dVPL6Ts5nr9Man-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe0e0;strokeColor=none;" vertex="1" parent="fv3sdNVmOjLKZ6MCWGfm-5">
-          <mxGeometry x="344" y="154" width="30" height="15" as="geometry" />
+          <mxGeometry x="393" y="177" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="woZwy3dVPL6Ts5nr9Man-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Invalid&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fv3sdNVmOjLKZ6MCWGfm-5">
-          <mxGeometry x="370" y="146.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="419" y="169.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fv3sdNVmOjLKZ6MCWGfm-6" value="未命名图层" parent="0" />
       </root>
