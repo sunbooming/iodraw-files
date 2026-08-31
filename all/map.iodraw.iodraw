@@ -58,7 +58,22 @@
         </mxCell>
         <mxCell id="pgUH8C50a59MbT39yyo3-2" value="big" parent="0" />
         <mxCell id="pgUH8C50a59MbT39yyo3-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/6pFtwTsM/RX1-Range-Time-Map.png;clipPath=inset(70.89% 46.33% 17.56% 34.67%);" vertex="1" parent="pgUH8C50a59MbT39yyo3-2">
-          <mxGeometry x="274" y="168" width="230.18" height="105" as="geometry" />
+          <mxGeometry x="285" y="165" width="230.18" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="8qObESauiXVm0FURebrc-1" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Helvetica&quot; style=&quot;font-size: 23px;&quot;&gt;0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pgUH8C50a59MbT39yyo3-2">
+          <mxGeometry x="232" y="298" width="29" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8qObESauiXVm0FURebrc-2" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Helvetica&quot; style=&quot;font-size: 23px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pgUH8C50a59MbT39yyo3-2">
+          <mxGeometry x="232" y="276" width="29" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8qObESauiXVm0FURebrc-3" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Helvetica&quot; style=&quot;font-size: 23px;&quot;&gt;2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pgUH8C50a59MbT39yyo3-2">
+          <mxGeometry x="232" y="254" width="29" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8qObESauiXVm0FURebrc-4" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Helvetica&quot; style=&quot;font-size: 23px;&quot;&gt;3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pgUH8C50a59MbT39yyo3-2">
+          <mxGeometry x="232" y="232" width="29" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8qObESauiXVm0FURebrc-5" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Helvetica&quot; style=&quot;font-size: 23px;&quot;&gt;4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pgUH8C50a59MbT39yyo3-2">
+          <mxGeometry x="232" y="210" width="29" height="18" as="geometry" />
         </mxCell>
         <mxCell id="pgUH8C50a59MbT39yyo3-4" value="未命名图层" parent="0" />
         <mxCell id="pgUH8C50a59MbT39yyo3-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#ffffff;strokeWidth=2;" vertex="1" parent="pgUH8C50a59MbT39yyo3-4">
