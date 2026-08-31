@@ -52,7 +52,7 @@
     <mxGraphModel dx="754" dy="489" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <mxCell id="1" parent="0" visible="0" />
         <mxCell id="pgUH8C50a59MbT39yyo3-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/6pFtwTsM/RX1-Range-Time-Map.png;" vertex="1" parent="1">
           <mxGeometry x="104" y="67" width="520" height="390" as="geometry" />
         </mxCell>
