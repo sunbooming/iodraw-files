@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r84KkMrRDszAoyK9fIWq-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.postimg.cc/50Hfyqt2/RX1-Range-Time-Map.png;" vertex="1" parent="1">
-          <mxGeometry x="380" y="150" width="1200" height="955" as="geometry" />
-        </mxCell>
-        <mxCell id="r84KkMrRDszAoyK9fIWq-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.postimg.cc/50Hfyqt2/RX1-Range-Time-Map.png;" vertex="1" parent="1">
-          <mxGeometry x="320" y="170" width="1200" height="955" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
