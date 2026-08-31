@@ -39,6 +39,9 @@
             <mxPoint x="443" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="r84KkMrRDszAoyK9fIWq-18" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="r84KkMrRDszAoyK9fIWq-9">
+          <mxGeometry x="263" y="291" width="29" height="18" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
