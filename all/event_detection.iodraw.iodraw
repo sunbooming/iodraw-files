@@ -10,7 +10,7 @@
         <mxCell id="CZjhr46BZ2I6k_fWr2-s-3" value="未命名图层" parent="0" />
         <mxCell id="CZjhr46BZ2I6k_fWr2-s-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="CZjhr46BZ2I6k_fWr2-s-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="272" y="258" as="sourcePoint" />
+            <mxPoint x="272" y="259" as="sourcePoint" />
             <mxPoint x="306" y="269" as="targetPoint" />
           </mxGeometry>
         </mxCell>
