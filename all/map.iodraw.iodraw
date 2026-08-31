@@ -56,7 +56,7 @@
         <mxCell id="pgUH8C50a59MbT39yyo3-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/6pFtwTsM/RX1-Range-Time-Map.png;" vertex="1" parent="1">
           <mxGeometry x="104" y="67" width="520" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="pgUH8C50a59MbT39yyo3-2" value="big" style="locked=1;" parent="0" />
+        <mxCell id="pgUH8C50a59MbT39yyo3-2" value="big" style="" parent="0" />
         <mxCell id="pgUH8C50a59MbT39yyo3-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/6pFtwTsM/RX1-Range-Time-Map.png;clipPath=inset(70.89% 46.33% 17.56% 34.67%);" vertex="1" parent="pgUH8C50a59MbT39yyo3-2">
           <mxGeometry x="275" y="162" width="236.18" height="107.74" as="geometry" />
         </mxCell>
@@ -80,7 +80,7 @@
           <mxGeometry x="243" y="187" width="29" height="18" as="geometry" />
         </mxCell>
         <mxCell id="8qObESauiXVm0FURebrc-10" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Helvetica&quot; style=&quot;font-size: 23px;&quot;&gt;4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pgUH8C50a59MbT39yyo3-4">
-          <mxGeometry x="137" y="192" width="29" height="18" as="geometry" />
+          <mxGeometry x="243" y="165" width="29" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
