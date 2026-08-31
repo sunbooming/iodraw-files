@@ -56,7 +56,10 @@
         <mxCell id="pgUH8C50a59MbT39yyo3-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/6pFtwTsM/RX1-Range-Time-Map.png;" vertex="1" parent="1">
           <mxGeometry x="104" y="67" width="520" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="pgUH8C50a59MbT39yyo3-2" value="未命名图层" parent="0" />
+        <mxCell id="pgUH8C50a59MbT39yyo3-2" value="big" parent="0" />
+        <mxCell id="pgUH8C50a59MbT39yyo3-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/6pFtwTsM/RX1-Range-Time-Map.png;" vertex="1" parent="pgUH8C50a59MbT39yyo3-2">
+          <mxGeometry x="105" y="68" width="520" height="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
