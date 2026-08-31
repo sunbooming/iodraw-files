@@ -38,7 +38,7 @@
             <mxPoint x="478" y="169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CZjhr46BZ2I6k_fWr2-s-11" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Invalid&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CZjhr46BZ2I6k_fWr2-s-3">
+        <mxCell id="CZjhr46BZ2I6k_fWr2-s-11" value="&lt;font color=&quot;#ffe0e0&quot; style=&quot;font-size: 13px;&quot;&gt;Invalid&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CZjhr46BZ2I6k_fWr2-s-3">
           <mxGeometry x="360" y="148" width="46" height="19" as="geometry" />
         </mxCell>
       </root>
