@@ -8,9 +8,6 @@
           <mxGeometry x="75" y="100" width="520" height="414" as="geometry" />
         </mxCell>
         <mxCell id="r84KkMrRDszAoyK9fIWq-4" value="2" style="" parent="0" />
-        <mxCell id="r84KkMrRDszAoyK9fIWq-6" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/50Hfyqt2/RX1-Range-Time-Map.png;" vertex="1" parent="r84KkMrRDszAoyK9fIWq-4">
-          <mxGeometry x="85" y="110" width="520" height="414.2666666666667" as="geometry" />
-        </mxCell>
         <mxCell id="r84KkMrRDszAoyK9fIWq-11" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.postimg.cc/50Hfyqt2/RX1-Range-Time-Map.png;clipPath=inset(69.25% 39% 19.04% 38.33%);" vertex="1" parent="r84KkMrRDszAoyK9fIWq-4">
           <mxGeometry x="263" y="210" width="250.14" height="103" as="geometry" />
         </mxCell>
