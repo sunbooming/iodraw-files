@@ -84,7 +84,7 @@
           <mxGeometry x="70" y="118" width="592.65" height="310" as="geometry" />
         </mxCell>
         <mxCell id="A-JV39p05fYVbuApyF2O-2" value="未命名图层" parent="0" />
-        <mxCell id="A-JV39p05fYVbuApyF2O-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="A-JV39p05fYVbuApyF2O-2">
+        <mxCell id="A-JV39p05fYVbuApyF2O-3" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#2e8b57;" edge="1" parent="A-JV39p05fYVbuApyF2O-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="396" y="283" as="sourcePoint" />
             <mxPoint x="396" y="320" as="targetPoint" />
