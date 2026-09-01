@@ -76,7 +76,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ps8ajBL1fkoZ1KeLoarx" name="第 3 页">
-    <mxGraphModel dx="377" dy="245" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="943" dy="611" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
@@ -84,7 +84,7 @@
           <mxGeometry x="70" y="118" width="592.65" height="310" as="geometry" />
         </mxCell>
         <mxCell id="A-JV39p05fYVbuApyF2O-2" value="未命名图层" parent="0" />
-        <mxCell id="A-JV39p05fYVbuApyF2O-3" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#2e8b57;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="A-JV39p05fYVbuApyF2O-2" target="A-JV39p05fYVbuApyF2O-4">
+        <mxCell id="A-JV39p05fYVbuApyF2O-3" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="A-JV39p05fYVbuApyF2O-2" target="A-JV39p05fYVbuApyF2O-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="274" y="252" as="sourcePoint" />
             <mxPoint x="280" y="294" as="targetPoint" />
@@ -99,7 +99,7 @@
             <mxPoint x="368" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A-JV39p05fYVbuApyF2O-6" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Angular Artery&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="A-JV39p05fYVbuApyF2O-2">
+        <mxCell id="A-JV39p05fYVbuApyF2O-6" value="&lt;font color=&quot;#f2aeae&quot; style=&quot;font-size: 23px;&quot;&gt;Angular Artery&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="A-JV39p05fYVbuApyF2O-2">
           <mxGeometry x="328" y="310" width="170" height="48" as="geometry" />
         </mxCell>
       </root>
