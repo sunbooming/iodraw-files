@@ -90,7 +90,7 @@
             <mxPoint x="396" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A-JV39p05fYVbuApyF2O-4" value="&lt;font style=&quot;font-size: 22px;&quot; color=&quot;#2e8b57&quot;&gt;STA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="A-JV39p05fYVbuApyF2O-2">
+        <mxCell id="A-JV39p05fYVbuApyF2O-4" value="&lt;font style=&quot;font-size: 22px;&quot; color=&quot;#2e8b57&quot;&gt;STA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="A-JV39p05fYVbuApyF2O-2">
           <mxGeometry x="366" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
