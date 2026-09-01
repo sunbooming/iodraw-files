@@ -108,8 +108,8 @@
             <mxPoint x="529" y="298" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A-JV39p05fYVbuApyF2O-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="A-JV39p05fYVbuApyF2O-2">
-          <mxGeometry x="544" y="284" width="60" height="30" as="geometry" />
+        <mxCell id="A-JV39p05fYVbuApyF2O-8" value="Facial Artery" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="A-JV39p05fYVbuApyF2O-2">
+          <mxGeometry x="538" y="313" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
